@@ -17,6 +17,7 @@ namespace UD5
             Ex8 ex8 = new Ex8();
             Ex9 ex9 = new Ex9();
             Ex10 ex10 = new Ex10();
+            Ex11 ex11 = new Ex11();
             Console.WriteLine("Ejercicios de la Unidad 5");
             Console.WriteLine("Escribe el numero del ejercicio que quieres ver (del 1 al 21)");
             opcion = Console.ReadLine();
@@ -51,6 +52,9 @@ namespace UD5
                     break;
                 case "10":
                     ex10.Menu();
+                    break;
+                case "11":
+                    ex11.Menu();
                     break;
                 default:
                     Console.WriteLine("Opcion incorrecta. Vuelve a intentarlo más tarde");
