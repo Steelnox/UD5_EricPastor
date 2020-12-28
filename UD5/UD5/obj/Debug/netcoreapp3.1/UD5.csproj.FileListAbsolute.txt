@@ -1,0 +1,13 @@
+D:\Cursillos\Ejercicios\Proyectos\UD5\UD5\UD5\obj\Debug\netcoreapp3.1\UD5.csprojAssemblyReference.cache
+D:\Cursillos\Ejercicios\Proyectos\UD5\UD5\UD5\obj\Debug\netcoreapp3.1\UD5.AssemblyInfoInputs.cache
+D:\Cursillos\Ejercicios\Proyectos\UD5\UD5\UD5\obj\Debug\netcoreapp3.1\UD5.AssemblyInfo.cs
+D:\Cursillos\Ejercicios\Proyectos\UD5\UD5\UD5\obj\Debug\netcoreapp3.1\UD5.csproj.CoreCompileInputs.cache
+D:\Cursillos\Ejercicios\Proyectos\UD5\UD5\UD5\bin\Debug\netcoreapp3.1\UD5.exe
+D:\Cursillos\Ejercicios\Proyectos\UD5\UD5\UD5\bin\Debug\netcoreapp3.1\UD5.deps.json
+D:\Cursillos\Ejercicios\Proyectos\UD5\UD5\UD5\bin\Debug\netcoreapp3.1\UD5.runtimeconfig.json
+D:\Cursillos\Ejercicios\Proyectos\UD5\UD5\UD5\bin\Debug\netcoreapp3.1\UD5.runtimeconfig.dev.json
+D:\Cursillos\Ejercicios\Proyectos\UD5\UD5\UD5\bin\Debug\netcoreapp3.1\UD5.dll
+D:\Cursillos\Ejercicios\Proyectos\UD5\UD5\UD5\bin\Debug\netcoreapp3.1\UD5.pdb
+D:\Cursillos\Ejercicios\Proyectos\UD5\UD5\UD5\obj\Debug\netcoreapp3.1\UD5.dll
+D:\Cursillos\Ejercicios\Proyectos\UD5\UD5\UD5\obj\Debug\netcoreapp3.1\UD5.pdb
+D:\Cursillos\Ejercicios\Proyectos\UD5\UD5\UD5\obj\Debug\netcoreapp3.1\UD5.genruntimeconfig.cache
